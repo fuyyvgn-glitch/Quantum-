@@ -1,0 +1,6 @@
+{
+  "name": "كربونكس — معمارية شرائح الغرافين للذكاء الاصطناعي",
+  "description": "منصة هندسية ومحاكاة تفاعلية لتصميم شرائح ذكاء اصطناعي من الغرافين الأحادي بحجم الإصبع، مع مقارنة المواد وتحليل الفجوات السداسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
